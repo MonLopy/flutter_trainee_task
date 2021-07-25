@@ -1,52 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
 
-// void main() {
-//   runApp(MyApp());
-// }
 
-// class MyApp extends StatelessWidget{
-//   @override
-//   Widget build(BuildContext context){
-    
-//   List colors = [Colors.red, Colors.green, Colors.yellow];
-//   Random random = new Random();
-
-//   int index = 0;
-
-//   void changeIndex() {
-//     setState(() => index = random.nextInt(3));
-//   }
-  //   return MaterialApp(
-  //     home: Scaffold(
-  //         backgroundColor:colors[index],
-          
-  //         appBar: AppBar(title: Text("Test task"),
-  //         centerTitle: true,
-
-  //         ),
-  //     body: Center(
-  //       child:Text("Hey, there"), 
-
-  // ),
-
-  //       ),
-  //     );
-  // }
-// }
-// _____
-//  return MaterialApp(
-//       home: Scaffold(
-//       appBar: AppBar(title: Text("Test task"),
-//       centerTitle: true,
-//       ),
-//     Home(),
-
-//       body: Center(
-//         child:Text("Hey, there"), 
-//       ),
-//       ),
-//     );
 void main() {
   runApp(MyApp());
 }
